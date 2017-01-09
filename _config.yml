@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: Panificio Gobbo
 email: your-email@domain.com
 url: https://jacopogobbo.github.io
 description: "il posto migliore dove fare quello che si vuole stando alle regole degli altri"
@@ -55,7 +55,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Panificio Gobbo è il luogo dove la tradizione incontra la qualità e l'evoluzione'
 
 # Build settings
 markdown: kramdown
