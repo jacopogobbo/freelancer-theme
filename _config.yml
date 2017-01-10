@@ -55,7 +55,7 @@ address:
   - line: Sarego. VI
 
 # Credits content
-credits: Panificio Gobbo è il luogo dove la tradizione incontra Harry Potter
+credits: "Panificio Gobbo è il luogo dove la tradizione incontra Harry Potter"
 
 # Build settings
 markdown: kramdown
