@@ -52,6 +52,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Piazza Umberto I
+  - line: Umberto
   - line: Sarego. VI
 
 # Credits content
