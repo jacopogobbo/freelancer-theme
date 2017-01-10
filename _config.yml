@@ -51,11 +51,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Piazza  Umberto  I
-  - line: Sarego  VI
+  - line: Piazza Umberto I
+  - line: Sarego VI
 
 # Credits content
-credits: Panificio Gobbo è il luogo dove la tradizione incontra Harry Potter
+credits: 'Panificio Gobbo è il luogo dove la tradizione incontra _Harry Potter_'
 
 # Build settings
 markdown: kramdown
