@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: piazza umberto primo
-  - line: sarego,vi
+  - line: "piazza umberto primo"
+  - line: "sarego,vi"
 
 # Credits content
 credits: Panificio Gobbo è il luogo dove la tradizione incontra Harry Potter
